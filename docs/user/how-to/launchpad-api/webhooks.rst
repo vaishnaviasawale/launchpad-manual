@@ -69,6 +69,7 @@ bumping the version.
 | `bug:comment:0.1 <https://documentation.ubuntu.com/launchpad/user/how-to/launchpad-api/webhooks/#bug-comment-created>`_              | Bug Comment           | When a comment is added to a bug                                                                            |
 +--------------------------------------------------------------------------------------------------------------------------------------+-----------------------+-------------------------------------------------------------------------------------------------------------+
 
+
 Creating webhooks
 -----------------
 
